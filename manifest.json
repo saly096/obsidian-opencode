@@ -1,0 +1,10 @@
+{
+  "id": "opencode",
+  "name": "OpenCode AI",
+  "version": "1.0.0",
+  "description": "AI coding assistant for Obsidian",
+  "author": "OpenCode Community",
+  "minAppVersion": "1.5.0",
+  "isDesktopOnly": true,
+  "main": "main.js"
+}

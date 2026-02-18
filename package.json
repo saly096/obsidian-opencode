@@ -1,0 +1,18 @@
+{
+  "name": "obsidian-opencode",
+  "version": "1.0.0",
+  "description": "AI coding assistant for Obsidian",
+  "main": "main.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": ["obsidian", "plugin", "ai", "opencode"],
+  "author": "OpenCode Community",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "esbuild": "^0.20.0",
+    "obsidian": "^1.0.0",
+    "typescript": "^5.0.0"
+  }
+}
